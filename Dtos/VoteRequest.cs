@@ -1,4 +1,4 @@
-﻿namespace AMD_Course_Work.Models
+﻿namespace AMD_Course_Work.Dtos
 {
     public class VoteRequest
     {
